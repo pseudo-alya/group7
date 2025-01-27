@@ -1,6 +1,12 @@
+Authors:
+Aliyah AlDiqqi
+Aalyah Al-Ali
+Sumaiya Bakhach
 
+Credits:
+Eric Pogue's template: https://github.com/EricPogueExampleCode-Web/introductions-2024
+ChatGPT
 
-Eric Pogue
 
 - Remove all of the text in your README.md file.
 - Add your application name and add yourself as the Author.
